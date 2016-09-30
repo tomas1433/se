@@ -1,0 +1,99 @@
+h1 {
+	color: #F78E3F;
+	font-size: 25px;
+}
+
+h2 {
+
+	font-size: 22px;
+}
+h3 {
+
+	font-size: 19px;
+}
+
+body{
+	background-color: #E6E5E6;
+	color: rgb(50, 50, 50);
+	font-family: 'Open Sans', sans-serif;
+}
+
+a{
+	color: rgb(200, 200, 200);
+	text-decoration: none;
+	text-decoration-color: black;
+}
+
+a:hover {
+	color: black;
+}
+
+
+h1, h2, h3 {
+font-family: 'Montserrat', sans-serif;
+}
+
+.card {
+	background-color:  white;
+	padding: 30px;
+	//width: 400px;
+	margin: 5px auto;  //calcul marge auto
+	border-radius: 3px;
+	box-shadow: 1px 1px 3px #E6E5E6;
+
+}
+
+img {
+	padding: 20px;
+	width: 100px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 30px;
+}
+
+.btn-orange {
+	background: #F78E3F;
+	font-weight: bold;
+	padding: 5px 20px;
+	border-radius: 2px;
+}
+.btn-red {
+	background: red;
+	font-weight: bold;
+	padding: 10px 20px;
+	border-radius: 2px;
+}
+.btn-red {
+	}
+.btn-red:hover{
+	color: black;
+
+}
+
+.list-inline {
+	text-align: center;
+	padding-left: 0px;
+	list-style: none;
+}
+.list-inline li{
+display: inline-block;
+width: 100px;
+}
+
+
+.clear {
+clear: both;
+}
+
+
+
+.bottom-right{
+	position: absolute;
+	bottom: 10px;
+	right: 10px;	
+}

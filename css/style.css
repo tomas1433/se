@@ -43,6 +43,24 @@ font-family: 'Montserrat', sans-serif;
 
 }
 
+.thank {
+  height: 80%;
+  padding-top: 18%;
+}
+.carte {
+  height: 350px;
+}
+
+.flag {
+  width: 30px;
+  padding: 0%;
+  padding-left: 10px;
+}
+
+.cv {
+  height: 100%;
+}
+
 img {
 	padding: 20px;
 	width: 100px;
@@ -95,5 +113,5 @@ clear: both;
 .bottom-right{
 	position: absolute;
 	bottom: 10px;
-	right: 10px;	
+	right: 10px;
 }

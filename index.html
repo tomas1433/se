@@ -49,15 +49,14 @@
                           <h4 class="modal-title" id="myModalLabel">Hire me</h4>
                         </div>
                         <div class="modal-body">
-                              <form action="http://formspree.io/t.tourlet@gmail.com"  method="POST">
-                                <input type="email" name="_replyto">
-                                <textarea name="body" value="Send"></textarea>
-                                <button type="submit" value="Send" class="btn btn-primary">
+                              <form method="POST" action="http://formspree.io/t.tourlet@gmail.com">
+                                <input type="email" name="_replyto" placeholder="Your email">
+                                <textarea name="message" placeholder="Your Message"></textarea>
+                                
                           </form>
                         </div>
                         <div class="modal-footer">
-                          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                          <button type="button" class="btn btn-primary">Save changes</button>
+                          <button type="submit" value="Send" class="btn btn-primary">Send</button>
                         </div>
                       </div>
                     </div>

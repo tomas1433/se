@@ -13,7 +13,7 @@ h3 {
 }
 
 body{
-	background-color: #E6E5E6;
+	background-color: #E3DDFF;
 	color: rgb(50, 50, 50);
 	font-family: 'Open Sans', sans-serif;
 }
@@ -112,4 +112,8 @@ clear: both;
 	position: absolute;
 	bottom: 10px;
 	right: 10px;
+}
+
+.lang {
+  list-style: none;
 }

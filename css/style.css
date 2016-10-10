@@ -117,3 +117,23 @@ clear: both;
 .lang {
   list-style: none;
 }
+.nav-droit{
+  padding-left: 70%;
+  padding-top: 10px;
+}
+
+.main {
+  padding-top: 4%;
+}
+
+.nav {
+  background-color: #FFFFFF;
+}
+
+.nav button {
+padding-right: 5px;
+}
+.main {
+  padding-top: 4px;
+}
+
